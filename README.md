@@ -1,6 +1,6 @@
 ### Hi there 👋  
 ## I am Manthan Dhole 
-## A third year student at VJTI , Mumbai
+## A third year IT student at VJTI , Mumbai
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning DSA and Flutter
